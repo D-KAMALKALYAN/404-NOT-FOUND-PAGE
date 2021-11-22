@@ -40,10 +40,11 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
 - What was your experience?
+- >As it is my first challenge a little bit of confusion while writing css. As i'm a begginer i know that the solution will not look alike the same as given challenge,but i tried my best
 - What have you learned/improved?
-- Your wisdom? :)
+- > I learnt a lot of new things and methods, of writting CSS.
+
 
 ### Built With
 
